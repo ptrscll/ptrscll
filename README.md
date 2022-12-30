@@ -8,7 +8,7 @@
 - In Spring 2023, I will be taking:
   - CS 160 (Algorithms)
   - AST 51 (Astrophysics Laboratory, which involves a significant amount of programming)
-  - Possibly MATH 70 (Linear Algebra)
+  - MATH 70 (Linear Algebra) (possibly)
 - My email is ptrscll@gmail.com
 
 <!---
