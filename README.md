@@ -9,7 +9,7 @@
   - CS 160 (Algorithms)
   - AST 51 (Astrophysics Laboratory, which involves a significant amount of programming)
   - MATH 70 (Linear Algebra) (possibly)
-- My email is ptrscll@gmail.com - contact me if you would like to see the projects I have worked on for courses at Tufts
+- My email is ptrscll@gmail.com - contact me if you would like to see the projects I have worked on that are currently in private repositories
 
 <!---
 ptrscll/ptrscll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
