@@ -1,7 +1,7 @@
 About Me
 --------
 
-Hi, I’m Peter Scully! I am a rising junior at Tufts University double majoring in computer science and geological sciences and minoring in computational chemistry. I’m interested in finding ways to apply computer science to other fields of science, particularly earth science. I have experience with C++, Java, Python, JavaScript, HTML, and CSS. I also have experience working with Jupyter Notebook, VSCode, and LaTeX. 
+Hi, I’m Peter Scully! I am a rising junior at Tufts University double majoring in computer science and geological sciences and minoring in computational chemistry. I’m interested in finding ways to apply computer science to other fields of science, particularly earth science. I have experience with C++, Java, Python, and Javascript. I also have experience working with Jupyter Notebook, VSCode, and LaTeX and limited experience working with HTML, CSS, and QGIS.
 
 My email is ptrscll@gmail.com. Feel free to contact me if you have any questions or would like to learn more about the projects I have worked on.
 
