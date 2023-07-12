@@ -12,7 +12,7 @@ I have taken the following CS/CS-related courses:
   - Algorithms
   - Artificial Intelligence
   - Data Structures
-  - Bridge to Higher Mathematics (similar to discrete mathematics)
+  - Bridge to Higher Mathematics
   - Linear Algebra
 
 I have also taken the following earth science classes:
