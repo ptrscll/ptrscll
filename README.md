@@ -16,6 +16,7 @@ For my classes, I have also worked on several programming projects, which are de
  - MetroSim - A simulation of a subway line in C++  that I created for my Data Structures class. In the simulation, users can add passengers with specific destinations to individual stations and move a train to pick up and drop off passengers.
  - SudokuSolver - A program that solves a user-inputted sudoku puzzle using chronological backtracking search with forward checking. This program was written in Python for my Artificial Intelligence class.
  - Gerp - A C++ program that enables users to search for words in a directory of files using a modified version of the Unix grep command. Users can add specifications such as whether they want their search to be case-sensitive or case-insensitive. I wrote this program with Jane Brockett for my data structures class.
+
 (These projects are stored in private repositories for copyright reasons.)
 
 Coursework
