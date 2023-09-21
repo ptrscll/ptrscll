@@ -25,7 +25,7 @@ Coursework
 
 I have taken the following CS/CS-related courses:
   - Algorithms
-  - Machine Learning*
+  - Introduction to Machine Learning*
   - Artificial Intelligence
   - Data Structures
   - Machine Structure and Assembly Language Programming*
