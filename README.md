@@ -25,23 +25,25 @@ Coursework
 
 I have taken the following CS/CS-related courses:
   - Algorithms
+  - Machine Learning*
   - Artificial Intelligence
   - Data Structures
+  - Machine Structure and Assembly Language Programming*
   - Bridge to Higher Mathematics
   - Linear Algebra
 
+*Currently enrolled
+
 I have also taken the following earth science classes:
   - Paleoclimate
+  - Global Climate Change*
   - Quaternary and Glacial Geology
+  - Structural Geology*
   - Mineralogy
   - Environmental Geology
   - The Dynamic Earth
 
-In the fall, I will be taking:
-  - Machine Structure & Assembly-Language Programming
-  - Global Climate Change
-  - Structural Geology
-  - One of: Machine Learning, Probability, or Mathematical Aspects of Data Analysis
+*Currently enrolled
 
 <!---
 ptrscll/ptrscll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
