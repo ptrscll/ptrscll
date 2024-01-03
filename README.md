@@ -1,7 +1,7 @@
 About Me
 --------
 
-Hi, I’m Peter Scully! I am a rising junior at Tufts University double majoring in computer science and geological sciences and minoring in computational chemistry. I’m interested in finding ways to apply computer science to other fields of science, particularly earth science. I have experience with C++, Java, Python, and Javascript. I also have experience with pair programming and Linux, Jupyter Notebook, VSCode, and LaTeX. I have some limited experience working with HTML, CSS, and QGIS.
+Hi, I’m Peter Scully! I am a junior at Tufts University double majoring in computer science and geological sciences and minoring in computational chemistry. I’m interested in finding ways to apply computer science to other fields of science, particularly earth and climate science. I have experience with Python, C++, C, Java, and Javascript. I also have experience with pair programming and Linux, Jupyter Notebook, VSCode, and LaTeX. I have some limited experience working with HTML, CSS, and QGIS.
 
 My email is ptrscll@gmail.com. Feel free to contact me if you have any questions or would like to learn more about the projects I have worked on.
 
@@ -25,25 +25,21 @@ Coursework
 
 I have taken the following CS/CS-related courses:
   - Algorithms
-  - Introduction to Machine Learning*
+  - Introduction to Machine Learning
   - Artificial Intelligence
   - Data Structures
-  - Machine Structure and Assembly Language Programming*
+  - Machine Structure and Assembly Language Programming
   - Bridge to Higher Mathematics
   - Linear Algebra
 
-*Currently enrolled
-
 I have also taken the following earth science classes:
   - Paleoclimate
-  - Global Climate Change*
+  - Global Climate Change
   - Quaternary and Glacial Geology
-  - Structural Geology*
+  - Structural Geology
   - Mineralogy
   - Environmental Geology
   - The Dynamic Earth
-
-*Currently enrolled
 
 <!---
 ptrscll/ptrscll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
