@@ -7,7 +7,9 @@ My email is ptrscll@gmail.com. Feel free to contact me if you have any questions
 
 Projects
 --------
-I have a couple of public repositories, which are described below:
+On my GitHub profile, I have several forks of repositories relating to my current research under Professor Dylan Vasey at Tufts University. My research thus far has mainly centered around refactoring functions and scripts for use in GDMATE, an in-development Python package for geodynamic modeling.
+
+I also have a couple of public repositories for my personal projects, which are described below:
  - Advent-of-Code-2022: A repository featurining several of my solutions to Advent of Code's 2022 daily programming challenges. All solutions were written in Python
  - 24-Project: An android app I created in high school where users can play a modified version of the "24 Game" where they must use arithmetic operations to combine four numbers to reach 24. This app features three difficulty options and was programed in Java using Android Studio. I worked on this project as a part of my high school's science research program under the mentorship of Prof. Hao Wu at Southern Connecticut State University.
 
@@ -16,6 +18,8 @@ For my classes, I have also worked on several programming projects, which are de
  - MetroSim - A simulation of a subway line in C++  that I created for my Data Structures class. In the simulation, users can add passengers with specific destinations to individual stations and move a train to pick up and drop off passengers.
  - SudokuSolver - A program that solves a user-inputted sudoku puzzle using chronological backtracking search with forward checking. This program was written in Python for my Artificial Intelligence class.
  - Gerp - A C++ program that enables users to search for words in a directory of files using a modified version of the Unix grep command. Users can add specifications such as whether they want their search to be case-sensitive or case-insensitive. I wrote this program with Jane Brockett for my data structures class.
+
+Other projects I have worked on in my classes include machine learning models to classify images of clothing and to classify the sentiment of product, movie, and restauraunt reviews, an emulator for a simple virtual machine, and a from-scratch implementation of a neural network. 
 
 
 (Projects I worked on for my classes are stored in private repositories for copyright reasons.)
