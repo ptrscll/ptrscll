@@ -1,13 +1,13 @@
 About Me
 --------
 
-Hi, I’m Peter Scully! I am a junior at Tufts University double majoring in computer science and geological sciences and minoring in computational chemistry. I’m interested in finding ways to apply computer science to other fields of science, particularly earth and climate science. I have experience with Python, C++, C, Java, and Javascript. I also have experience with pair programming and Linux, Jupyter Notebook, VSCode, and LaTeX. I have some limited experience working with HTML, CSS, and QGIS.
+Hi, I’m Peter Scully! I am a rising senior at Tufts University double majoring in computer science and geological sciences and minoring in applied computational science. I’m interested in finding ways to apply computer science to other fields of science, particularly earth and climate science. I have experience with Python, C++, C, Java, and Javascript. I also have experience with pair programming and Linux, Jupyter Notebook, VSCode, and LaTeX. I have some limited experience working with HTML, CSS, and QGIS.
 
 My email is ptrscll@gmail.com. Feel free to contact me if you have any questions or would like to learn more about the projects I have worked on.
 
 Projects
 --------
-On my GitHub profile, I have several forks of repositories relating to my current research under Professor Dylan Vasey at Tufts University. My research thus far has mainly centered around refactoring functions and scripts for use in GDMATE, an in-development Python package for geodynamic modeling.
+On my GitHub profile, I have several forks of repositories relating to my current research under Professor Dylan Vasey at Tufts University. My research thus far has mainly centered around quantifying strain in models of mountain belts and refactoring functions and scripts for use in GDMATE, an in-development Python package for geodynamic modeling.
 
 I also have a couple of public repositories for my personal projects, which are described below:
  - Advent-of-Code-2022: A repository featurining several of my solutions to Advent of Code's 2022 daily programming challenges. All solutions were written in Python
@@ -19,7 +19,7 @@ For my classes, I have also worked on several programming projects, which are de
  - SudokuSolver - A program that solves a user-inputted sudoku puzzle using chronological backtracking search with forward checking. This program was written in Python for my Artificial Intelligence class.
  - Gerp - A C++ program that enables users to search for words in a directory of files using a modified version of the Unix grep command. Users can add specifications such as whether they want their search to be case-sensitive or case-insensitive. I wrote this program with Jane Brockett for my data structures class.
 
-Other projects I have worked on in my classes include machine learning models to classify images of clothing and to classify the sentiment of product, movie, and restauraunt reviews, an emulator for a simple virtual machine, and a from-scratch implementation of a neural network. 
+Other projects I have worked on in my classes include a mathematical model to simulate a hurricane evacuation of southern New England, machine learning models to classify images of clothing and to classify the sentiment of product, movie, and restauraunt reviews, and a from-scratch implementation of a neural network. 
 
 
 (Projects I worked on for my classes are stored in private repositories for copyright reasons.)
@@ -33,17 +33,19 @@ I have taken the following CS/CS-related courses:
   - Artificial Intelligence
   - Data Structures
   - Machine Structure and Assembly Language Programming
-  - Bridge to Higher Mathematics
+  - Computation Theory
   - Linear Algebra
 
 I have also taken the following earth science classes:
-  - Paleoclimate
   - Global Climate Change
+  - Paleoclimate
+  - Physical Oceanography
   - Quaternary and Glacial Geology
+  - Mass Extinctions
+  - Advanced Tectonics
   - Structural Geology
   - Mineralogy
   - Environmental Geology
-  - The Dynamic Earth
 
 <!---
 ptrscll/ptrscll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
